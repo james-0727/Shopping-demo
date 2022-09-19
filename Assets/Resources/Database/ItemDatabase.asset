@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9530ab60b9bc1d64bb1337a19855f78f, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: 
+  ItemList:
+  - m_Name: Racing car 01
+    m_Color: 0
+    m_Thumbnail: {fileID: 21300000, guid: 6073fd0af63cb8541813fbd2c917bff7, type: 3}
+    m_Price: 100
+    m_Object: {fileID: 1248598967819147742, guid: c4cad50aa03bbca42938fe318344950b,
+      type: 3}
+  - m_Name: Racing car 02
+    m_Color: 5
+    m_Thumbnail: {fileID: 21300000, guid: a8527ee19bc146243abf984e03549138, type: 3}
+    m_Price: 100
+    m_Object: {fileID: 6183048251904429594, guid: a82f70a5f0178974093910fc6fd84c38,
+      type: 3}
+  - m_Name: Racing car 03
+    m_Color: 4
+    m_Thumbnail: {fileID: 21300000, guid: d19b423dffd5d5246a08119be336336a, type: 3}
+    m_Price: 100
+    m_Object: {fileID: 33538749733570355, guid: 98c57f100a7d7684dba02b8725bbc5d8,
+      type: 3}
+  - m_Name: Racing car 04
+    m_Color: 6
+    m_Thumbnail: {fileID: 21300000, guid: fa097bc08fec24a45857dccf776b38f1, type: 3}
+    m_Price: 100
+    m_Object: {fileID: 0}
+  - m_Name: Racing car 05
+    m_Color: 5
+    m_Thumbnail: {fileID: 21300000, guid: d8b457859096d724a906196ecce48e23, type: 3}
+    m_Price: 100
+    m_Object: {fileID: 0}
+  - m_Name: Racing car 06
+    m_Color: 0
+    m_Thumbnail: {fileID: 21300000, guid: 0a0fe9d745cb4d54085ae307259de6ad, type: 3}
+    m_Price: 100
+    m_Object: {fileID: 0}
+  - m_Name: Racing car 07
+    m_Color: 2
+    m_Thumbnail: {fileID: 21300000, guid: a78fa1c3fb5f0014e82af4549b31cf28, type: 3}
+    m_Price: 100
+    m_Object: {fileID: 0}
+  - m_Name: Racing car 08
+    m_Color: 5
+    m_Thumbnail: {fileID: 21300000, guid: dd2edfa771052614e874e8a8d476b787, type: 3}
+    m_Price: 100
+    m_Object: {fileID: 0}
+  - m_Name: Racing car 09
+    m_Color: 2
+    m_Thumbnail: {fileID: 21300000, guid: 87ed5ce20bd0eae4b8e8f2441432572b, type: 3}
+    m_Price: 100
+    m_Object: {fileID: 0}
+  - m_Name: Racing car 10
+    m_Color: 0
+    m_Thumbnail: {fileID: 21300000, guid: 353b62d118a594e4bad231d794fb3eb9, type: 3}
+    m_Price: 100
+    m_Object: {fileID: 0}
