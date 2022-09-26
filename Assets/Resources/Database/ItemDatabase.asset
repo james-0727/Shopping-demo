@@ -13,56 +13,42 @@ MonoBehaviour:
   m_Name: ItemDatabase
   m_EditorClassIdentifier: 
   ItemList:
-  - m_Name: Racing car 01
-    m_Color: 0
-    m_Thumbnail: {fileID: 21300000, guid: 6073fd0af63cb8541813fbd2c917bff7, type: 3}
-    m_Price: 100
-    m_Object: {fileID: 1248598967819147742, guid: c4cad50aa03bbca42938fe318344950b,
+  - m_Name: Lamp
+    m_Qaulity: 1
+    m_Thumbnail: {fileID: 21300000, guid: defb1aa420e2ebf4983b79badc2f1ede, type: 3}
+    m_Price: 43
+    m_Interactable: 1
+    m_Object: {fileID: 6491785320964487263, guid: 246d17a563449d347a9f745d22ee48b2,
       type: 3}
-  - m_Name: Racing car 02
-    m_Color: 5
-    m_Thumbnail: {fileID: 21300000, guid: a8527ee19bc146243abf984e03549138, type: 3}
-    m_Price: 100
-    m_Object: {fileID: 6183048251904429594, guid: a82f70a5f0178974093910fc6fd84c38,
+  - m_Name: School Globe
+    m_Qaulity: 0
+    m_Thumbnail: {fileID: 21300000, guid: a61d3cad45bee2a459068d159bf21b03, type: 3}
+    m_Price: 23
+    m_Interactable: 0
+    m_Object: {fileID: 5759703062026760305, guid: e50c726654fa39c429350782df59a38d,
       type: 3}
-  - m_Name: Racing car 03
-    m_Color: 4
-    m_Thumbnail: {fileID: 21300000, guid: d19b423dffd5d5246a08119be336336a, type: 3}
-    m_Price: 100
-    m_Object: {fileID: 33538749733570355, guid: 98c57f100a7d7684dba02b8725bbc5d8,
+  - m_Name: Radio
+    m_Qaulity: 1
+    m_Thumbnail: {fileID: 21300000, guid: 48843e9099e35854b804b2dde244c2b8, type: 3}
+    m_Price: 34
+    m_Interactable: 1
+    m_Object: {fileID: 8823252703558194418, guid: 5477f7f244d7a924f9578cfa8872ebb0,
       type: 3}
-  - m_Name: Racing car 04
-    m_Color: 6
-    m_Thumbnail: {fileID: 21300000, guid: fa097bc08fec24a45857dccf776b38f1, type: 3}
-    m_Price: 100
+  - m_Name: Computer
+    m_Qaulity: 3
+    m_Thumbnail: {fileID: 21300000, guid: f2140fd21bbd3524fad222c0bf6bae96, type: 3}
+    m_Price: 586
+    m_Interactable: 0
     m_Object: {fileID: 0}
-  - m_Name: Racing car 05
-    m_Color: 5
-    m_Thumbnail: {fileID: 21300000, guid: d8b457859096d724a906196ecce48e23, type: 3}
-    m_Price: 100
+  - m_Name: Led TV
+    m_Qaulity: 2
+    m_Thumbnail: {fileID: 21300000, guid: 634916233525de34cb08a89812fcfb3e, type: 3}
+    m_Price: 234
+    m_Interactable: 0
     m_Object: {fileID: 0}
-  - m_Name: Racing car 06
-    m_Color: 0
-    m_Thumbnail: {fileID: 21300000, guid: 0a0fe9d745cb4d54085ae307259de6ad, type: 3}
-    m_Price: 100
-    m_Object: {fileID: 0}
-  - m_Name: Racing car 07
-    m_Color: 2
-    m_Thumbnail: {fileID: 21300000, guid: a78fa1c3fb5f0014e82af4549b31cf28, type: 3}
-    m_Price: 100
-    m_Object: {fileID: 0}
-  - m_Name: Racing car 08
-    m_Color: 5
-    m_Thumbnail: {fileID: 21300000, guid: dd2edfa771052614e874e8a8d476b787, type: 3}
-    m_Price: 100
-    m_Object: {fileID: 0}
-  - m_Name: Racing car 09
-    m_Color: 2
-    m_Thumbnail: {fileID: 21300000, guid: 87ed5ce20bd0eae4b8e8f2441432572b, type: 3}
-    m_Price: 100
-    m_Object: {fileID: 0}
-  - m_Name: Racing car 10
-    m_Color: 0
-    m_Thumbnail: {fileID: 21300000, guid: 353b62d118a594e4bad231d794fb3eb9, type: 3}
-    m_Price: 100
+  - m_Name: Chair
+    m_Qaulity: 2
+    m_Thumbnail: {fileID: 21300000, guid: 529926bc70e44a147b4895a875a7d4c5, type: 3}
+    m_Price: 65
+    m_Interactable: 0
     m_Object: {fileID: 0}
