@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 225
     height: 931
-  m_MinSize: {x: 301, y: 401}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 300, y: 380}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 4924
+  controlID: 24
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 359
     height: 931
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -204,7 +204,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: DefaultLayout
+  m_LastLoadedLayoutName: 
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 4947
+  controlID: 25
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 4906
+  controlID: 26
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -400,7 +400,7 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
     m_SaveData: []
   m_SearchFilter:
-    m_NameFilter: 
+    m_NameFilter: lamp
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -414,7 +414,7 @@ MonoBehaviour:
     m_Folders:
     - Assets/AssetsStore/Lamp Assets/Objects/Textures
     m_Globs: []
-    m_OriginalText: 
+    m_OriginalText: lamp
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
@@ -425,23 +425,23 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: c05b0100
-    m_LastClickedID: 89024
-    m_ExpandedIDs: 00000000506600005e660000686600007a660000a0660000a2660000a46600004cbf00004ebf0000ba5b0100ce5b010078dc020088dc02008adc020092e70200a2e70200a6e70200aee7020048ec02002cb9030044b9030050b9030000ca9a3bffffff7f
+    m_SelectedIDs: e0670000
+    m_LastClickedID: 26592
+    m_ExpandedIDs: 0000000016670000186700001a6700001c6700001e67000020670000226700002467000026670000286700002a6700002c6700002e67000030670000326700003467000036670000386700003a6700003c6700003e6700005a67000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Georgian, by Tokyo Liu
-      m_OriginalName: Georgian, by Tokyo Liu
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 244048
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 6}
     m_SearchString: 
@@ -455,7 +455,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005066000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000016670000186700001a6700001c6700001e67000020670000226700002467000026670000286700002a6700002c6700002e67000030670000326700003467000036670000386700003a6700003c6700003e670000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -587,21 +587,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 16b1fbff1ab1fbff46b1fbff7819fcff2260fcff2460fcfff427fdff084afdffb84bfdff848bfdff868bfdffba8bfdffbc8bfdff64a0fdffe0a8fdff50aafdfffaacfdffacb1fdffaab7fdff96b9fdff26c3fdffa0c5fdff50cefdff403ffeff5e3ffeff823ffeff3041feff3241feff3841feff1442feff2044feff3044feff5244feff5c44feff6244feffa644feffb844feffbe44feffc244feffca44feff1649feff524cfeffb05ffeffe88afeffda8bfefff210fffffa10ffff0a11ffff4811ffff5011ffff6011ffffa812ffffb212ffffb812ffff1413ffff1813ffff6413ffffb215ffff0e16ffff1216ffff6c17ffff6a1fffffde1fffff3820ffffa022ffffd6eaffffbcf6ffffcef6ffffd4f6ffffd8f6ffffb6f9ffffcef9ffffd2f9ffff2cfbffffd0fbffff94600000a6600000da600000106100002261000034610000a67a0100c27a0100e47a01001841020088410200de410200e2410200ccec0200d0ec0200d8ec0200e2ec0200f8ec0200f8ed020092af030008b0030022b0030070b0030016b1030024b1030030b1030044b10300e2b2030076b30300a6b30300dcb303008cb40300ccb50300beb60300e0b70300
+      m_ExpandedIDs: 1cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Lamp and Desk
-        m_OriginalName: Lamp and Desk
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -282298
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -888,11 +888,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.139688, y: 0.1081956, z: -0.015345277, w: 0.9841207}
     speed: 2
-    m_Value: {x: 0.1411908, y: 0.10669924, z: -0.0152961705, w: 0.98409677}
+    m_Value: {x: 0.13969164, y: 0.10819841, z: -0.015345676, w: 0.9841463}
   m_Size:
     m_Target: 1.3767415
     speed: 2
-    m_Value: 1.317456
+    m_Value: 0.59654456
   m_Ortho:
     m_Target: 1
     speed: 2
